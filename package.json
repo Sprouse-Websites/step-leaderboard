@@ -1,0 +1,13 @@
+{
+    "name": "step-leaderboard",
+    "version": "0.1.0",
+    "author": "Joel Sprouse",
+    "description": "My Electron app",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "@electron-forge/cli": "^6.0.0-beta.54"
+    }
+}
